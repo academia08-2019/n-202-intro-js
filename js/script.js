@@ -67,4 +67,6 @@ if(condição){
     o que eu quero que aconteça caso todas as condições sejam falsas
 }
 
-
+while(condicao){
+    execute o que está aqui dentro
+}
